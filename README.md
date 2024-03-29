@@ -60,3 +60,6 @@
 ###  ![img_1.png](pic/FB1动态调整.png)
 ###  （4）至于放电电流，仍然用 IPWM管脚调节，电路不变，由于前面的电流设置在6A，所以输出电流在1-6A可调。
 ![img.png](pic/放电.png)
+# 板子一览，画的不好，多有见谅了
+![img.png](pic/top.png)
+![img.png](pic/bot.png)
