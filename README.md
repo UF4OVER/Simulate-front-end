@@ -3,7 +3,7 @@
 1. 截止到2024-3-29
 ![img](pic/zuizhong.png)
 2. 板子重新画（这两天有点新的事情，搁浅一下）
-3. ![img.png](pic/ban.png)
+3. ![img.png](pic/img.png)
 ## （一）制作思路
 
 ### 1.使用SC8802作为BUCK-BOOST双向变换器为电池组降压充电或者升压放电，维持电源的一致性。
